@@ -3,7 +3,7 @@ import numpy
 def divide(a,b):
     return a/0
 
-a = 1
-x = a/0
-print(a)
+b = 1
+x = b/0
+print(x)
 
