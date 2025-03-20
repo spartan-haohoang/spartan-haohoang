@@ -1,9 +1,10 @@
-import numpy
+import numpy as np
 
-def divide(a,b):
-    return a/0
+
+def divide(a, b):
+    return a / b
+
 
 b = 1
-x = b/0
+x = divide(1, 0)
 print(x)
-
