@@ -8,3 +8,16 @@ def divide(a, b):
 b = 1
 x = divide(1, 0)
 print(x)
+
+b = 1
+x = divide(1, 0)
+print(x)
+
+
+b = 1
+x = divide(1, 0)
+print(x)
+
+b = 1
+x = divide(1, 0)
+print(x)
