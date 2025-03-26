@@ -5,27 +5,34 @@ def divide(a, b):
     return a / b
 
 
-b = 1
-x = divide(1, 0)
-print(x)
-
-b = 1
-x = divide(1, 0)
-print(x)
+def sum(a, b):
+    return a + b
 
 
-b = 1
-x = divide(1, 0)
-print(x)
+def sum_of_squares(a, b):
+    return a**2 + b**2
 
-b = 1
-x = divide(1, 0)
-print(x)
 
-b = 1
-x = divide(1, 0)
-print(x)
+def mahalanobis_distance(x, y):
+    return np.sqrt(np.sum((x - y) ** 2))
 
-b = 1
-x = divide(1, 0)
-print(x)
+
+def euclidean_distance(x, y):
+    return np.sqrt(np.sum((x - y) ** 2))
+
+
+def manhattan_distance(x, y):
+    return np.sum(np.abs(x - y))
+
+
+print(mahalanobis_distance(np.array([1, 2, 3]), np.array([4, 5, 6])))
+print(euclidean_distance(np.array([1, 2, 3]), np.array([4, 5, 6])))
+print(manhattan_distance(np.array([1, 2, 3]), np.array([4, 5, 6])))
+
+print(sum_of_squares(1, 2))
+
+print(sum(1, 2))
+
+print(divide(1, 2))
+
+print(divide(1, 0))
