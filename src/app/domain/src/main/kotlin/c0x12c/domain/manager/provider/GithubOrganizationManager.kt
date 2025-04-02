@@ -45,8 +45,8 @@ class GithubOrganizationManager(
       installationId = account.installationId
     )
 
-    // Return in case app was removed from organization
-    if (installation == null) {
+    // Return in case app was removed from organization or suspended
+    if (installation == null || installation.suspendedAt != null) {
       return currentRoleByUserId
     }
 
