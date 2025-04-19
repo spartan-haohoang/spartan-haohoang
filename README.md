@@ -45,11 +45,11 @@ Hi, I'm **Hao Hoang**, a passionate **AI Researcher** and **Software Engineer** 
 ## 📝 Publications
 - **Fast Convergence of Inertial Dynamics with Hessian-Driven Damping**  
   Studied convergence rates under geometric conditions (arXiv, Jun 2022).  
-  🔗 [View Publication](https://arxiv.org/abs/2206.XXXX)
+  🔗 [View Publication](https://arxiv.org/abs/2206.06853)
 
 ## 🌟 Connect with Me
 - 📧 **Email**: [Your email here]
-- 🔗 **LinkedIn**: [linkedin.com/in/hao-hoang](#)
+- 🔗 **LinkedIn**: [in/hoang-van-hao/](https://www.linkedin.com/in/hoang-van-hao/)
 - 🌐 **Portfolio**: [Your portfolio link, if applicable]
 - 🐦 **X**: [Your X handle, if applicable]
 
