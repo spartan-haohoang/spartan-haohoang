@@ -1,4 +1,4 @@
-# Hao Hoang (Spartan Hao Hoang)
+# Hao Hoang
 ## AI Software Engineer & Researcher | LLMs & Multimodal AI Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hoang--van--hao-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hoang-van-hao/)
